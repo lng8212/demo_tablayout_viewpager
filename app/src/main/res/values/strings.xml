@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayout + ViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">Hello Fragment1</string>
+    <string name="fragment2">Hello Fragment2</string>
+    <string name="fragment3">Hello Fragment3</string>
+</resources>
