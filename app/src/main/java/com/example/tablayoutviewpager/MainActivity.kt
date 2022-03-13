@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         viewPager.adapter = ViewPagerAdapter(supportFragmentManager, lifecycle)
 
         TabLayoutMediator(tabLayout, viewPager){
-            tab, position -> tab.text = "Tab $position"
+                _, _ ->
         }.attach()
     }
 }
